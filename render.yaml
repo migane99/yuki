@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: emergency-ryousan-type
+    name: migane-gakutabu
     env: python
     region: Oregon
     plan: free
